@@ -4,7 +4,7 @@ Simple Task Manager is a console application written in Kotlin. It allows users 
 
 I created this software to learn the basics of Kotlin and practice writing a program that interacts with the user. I wanted to understand how variables, classes, functions, loops, conditionals, and collections work together in a simple application.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/1e_NYKmDb2w)
 
 # Development Environment
 
@@ -15,7 +15,7 @@ I wrote the program in Kotlin using JDK 25. The program uses the Kotlin standard
 # Useful Websites
 
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Kotlin Basic Sintax](https://kotlinlang.org/docs/basic-syntax.html)
+- [Kotlin Basic Syntax](https://kotlinlang.org/docs/basic-syntax.html)
 - [IntelliJ IDEA Documentation](https://www.jetbrains.com/help/idea/getting-started.html)
 
 
